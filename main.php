@@ -2,6 +2,5 @@
 
 $dev = "Olá mundo";
 $nome = "Duda";
-echo $dev;
-"";
-$nome;
+$descricao = "Curso: técnico em desenvolvimento de sistemas";
+echo $dev, "", $nome, "\n", $descricao;
